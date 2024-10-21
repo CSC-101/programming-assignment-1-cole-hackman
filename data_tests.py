@@ -1,5 +1,7 @@
 import data
 import unittest
+import hw1
+from data import Price
 
 
 class TestCases(unittest.TestCase):
